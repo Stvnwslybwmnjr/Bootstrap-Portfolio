@@ -263,7 +263,7 @@ New Styles Bootstrap project
 =======================================
 */
 @media only screen and (max-width: 640px) {
-  .mainsection {
+  .mainsection .mainheader {
     margin: 0%
   }
   }
