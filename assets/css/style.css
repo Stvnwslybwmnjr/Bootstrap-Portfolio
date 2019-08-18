@@ -257,3 +257,13 @@ Portfolio Page
       background-color: #4aaaa5;
 
   }
+
+/*=====================================
+New Styles Bootstrap project
+=======================================
+*/
+@media only screen and (max-width: 640px) {
+  .mainsection {
+    margin: 0%
+  }
+  }
