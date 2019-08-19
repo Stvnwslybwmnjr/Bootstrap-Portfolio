@@ -105,9 +105,7 @@ a {
 
 .logo {
     background-color: #4aaaa5;
-    width: 210px;
     color: #ffffff;
-    float: left; 
     font-size: 25px;
     padding: 25px 25px;
     font-weight: bold
@@ -264,6 +262,9 @@ New Styles Bootstrap project
 */
 @media only screen and (max-width: 640px) {
   .mainsection .mainheader {
-    margin: 0%
+    margin: 5%
+  }
+  .mainheader {
+    height: 140;
   }
   }
