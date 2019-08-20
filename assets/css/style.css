@@ -264,7 +264,10 @@ New Styles Bootstrap project
   .mainsection .mainheader {
     margin: 5%
   }
-  .mainheader {
-    height: 140;
-  }
-  }
+}
+
+
+.mainheader {
+  height: 140;
+}
+
